@@ -8,7 +8,8 @@
 
 ### Connect with me:
 
-<img align="left"  href=" https://www.linkedin.com/in/gargi-chakraverty-b11a961b2/" alt="Gargi Chakraverty | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="Gargi Chakraverty | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/gargi-chakraverty-b11a961b2/">
 
 
 <br />
