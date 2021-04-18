@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Gargi Chakraverty | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedIn]
+[<img align="left"  href=" https://www.linkedin.com/in/gargi-chakraverty-b11a961b2/" alt="Gargi Chakraverty | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
 
 
 <br />
@@ -28,7 +28,7 @@
 [<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/50/000000/python.png" />]
 [<img align="left" alt="C++" width="26px" src="https://img.icons8.com/ios-filled/50/000000/c-plus-plus-logo.png"/>]
 [<img align="left" alt="C" width="26px"  src="https://img.icons8.com/color/50/000000/c-programming.png" />]
-[<img align="left" alt="Java" width="26px" src="https://img.icons8.com/nolan/50/java-coffee-cup-logo.png"/>]
+
 
 
 <br />
