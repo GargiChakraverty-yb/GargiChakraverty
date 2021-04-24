@@ -1,8 +1,8 @@
-### Hi there,👋I am Gargi Chakraverty, a computer science undergrad passionate about building software that contributes positively to people's lives.I love exploring Interdisciplinary CS fields particularly the field of cognitive science.I am also passionate about writing content that promotes gender equality in tech workspaces and the inclusion of different communities in various walks of life.  
+- Hi there,👋I am Gargi Chakraverty, a computer science undergrad passionate about building software that contributes positively to people's lives.I love exploring Interdisciplinary CS fields particularly the field of cognitive science.I am also passionate about writing content that promotes gender equality in tech workspaces and the inclusion of different communities in various walks of life.  
 
 
 - 🌱 I am a beginner in the field of deep learning, front-end web development,open-source and competitive coding.
-- 🥅 2021 Goals: Contribute more to Open Source and deep learning projects.
+- 🥅 2021 Goals: Contribute more to Open Source,deep learning projects and practice coding daily.
 - ⚡ Fun fact: I love to read novels and wonder about the intricacies of human brain.
 
 
