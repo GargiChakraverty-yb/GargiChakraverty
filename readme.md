@@ -6,11 +6,6 @@
 - ⚡ Fun fact: I love to read novels and wonder about the intricacies of human brain.
 
 
-### Connect with me:
-
-<img align="left" alt="Gargi Chakraverty | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<a href="https://www.linkedin.com/in/gargi-chakraverty-b11a961b2/">
-
 
 <br />
 
