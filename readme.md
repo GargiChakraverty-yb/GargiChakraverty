@@ -1,5 +1,5 @@
 - Hi there,👋I am Gargi Chakraverty, a computer science undergrad passionate about building software that contributes positively to people's lives.
-- 🥅 2021 Goals: Contribute to Open Source,web dev projects and practice coding daily.
+- 🥅 2022 Goals: Contribute to Open Source,web dev projects and practice coding daily.
 - ⚡ Fun fact: I love to read novels and wonder about the intricacies of human brain.
 
 
