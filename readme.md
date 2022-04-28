@@ -40,8 +40,8 @@
    </tr> 
    <tr>
       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=GargiChakraverty&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
-     <td><td>
-  </td>
+    
+  
   </tr>
 </table>
 
